@@ -1,6 +1,6 @@
 ## Lab3-js-frameworks
 
-#Assignment Instructions:  
+ ## Assignment Instructions:  
 
 You will create an express application using 3 JavaScript files: 
 
@@ -24,7 +24,7 @@ Install Nodemon
 
  
 
-#JavaScript File1 
+## JavaScript File1 
 
 1. Add the full Express boilerplate/template code 
 
@@ -36,7 +36,7 @@ Install Nodemon
 
  
 
-#JavaScript File2 
+## JavaScript File2 
 
 1. Add the full Express boilerplate/template code 
 
@@ -48,7 +48,7 @@ Example: If your JSON file is about cars => the URL should be: http://localhost:
 
  
 
-#JavaScript File3 
+## JavaScript File3 
 
 1. Add the full Express boilerplate/template code 
 
